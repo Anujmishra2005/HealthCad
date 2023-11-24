@@ -3,7 +3,15 @@
 ### [HealthCad Website Live Link](https://health-cad.vercel.app/)
 
 It is a Working HealthCare Website for Tracking Real time Data Analysis of Your Health made by using HTML, CSS and JavaScript.
- 
+
+## 📸 Screenshots of Prototype Software
+
+![ppsc1](https://github.com/Anujmishra2005/HealthCad/assets/72244992/fc690e76-cb58-4e4c-880e-95267637388f)
+
+
+![ppsc2](https://github.com/Anujmishra2005/HealthCad/assets/72244992/a836657a-f338-4e25-b36f-dfd5b70c5644)
+
+
 ## 📽️ Video of Prototype Software
 
 
